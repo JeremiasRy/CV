@@ -50,6 +50,10 @@ html, body {
 .container__item:nth-child(5) {
     grid-row: span 2;
 }
+.contact {
+    position: absolute;
+    top: 32%;
+}
 .image-container {
     margin-top: 2em;
     display: flex;
